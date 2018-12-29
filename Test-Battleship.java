@@ -1,4 +1,3 @@
-
 /**
  * This file contains testing methods for the Battleship project. These methods are intended to 
  * provide an example of a way to incrementally test your code, and to provide example method calls
@@ -459,4 +458,3 @@ public class TestBattleship {
 		System.out.println(c);
 	}
 }
-
